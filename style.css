@@ -1,0 +1,43 @@
+body {background-color: #F9A11C;}
+img{
+	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+}
+.titlu{
+	margin-top: 5px;
+	margin-bottom: 3px;
+	font-size:65px;
+	color: black;
+	text-decoration: bold;
+	text-align: center;
+}
+.nume-lucrare{
+	margin: 0px;
+	font-size:35px;
+	color: black;
+	text-decoration: bold;
+	text-align: center;
+}
+#prof{
+	  position: absolute;
+  bottom: 30px;
+  left: 46px;
+  font-size: 18px;
+}
+#stud{
+	 position: absolute;
+  bottom: 30px;
+  right: 46px;
+  font-size: 18px;
+}
+iframe{
+	display: block;
+ 	 margin-left: auto;
+ 	 margin-right: auto;
+	position: relative;
+	margin-top: 50px;
+
+
+}
+
